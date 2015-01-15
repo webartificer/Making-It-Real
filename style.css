@@ -45,7 +45,6 @@ nav li {
     display: inline;
     line-height: 40px;
     text-align: center;
-
 }
 
 nav li a {
@@ -225,7 +224,6 @@ aside h4 {
     font-size: 1.2em;
     padding: 5px 15px;
     display: block;
-
 }
 
 .user_comments .meta {
@@ -238,8 +236,8 @@ aside h4 {
     clear: left;
     padding: 10px 0;
     overflow: hidden;
-
 }
+
 .user_replies {
     border-left: 1px solid #aaa;
     padding-left: 10px;
