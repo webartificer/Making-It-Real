@@ -179,3 +179,13 @@ label {
     text-transform: uppercase;
     border: 0;
 }
+
+aside {
+    position: absolute;
+    top: 240px;
+    min-height: 100px;
+    width: 170px;
+    background:#ddd;
+    left: 510px;
+    border-bottom: 4px solid #000;
+}
